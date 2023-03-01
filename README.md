@@ -1,2 +1,2 @@
 # Atividade-Landing-Page
-Atividade do curso de Fullstack. Cria uma Landing Page utilizando HTML e CSS.
+Atividade do curso de Fullstack. Criar uma Landing Page utilizando HTML e CSS.
